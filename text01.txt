@@ -1,0 +1,3 @@
+Hello itzik
+welcome to course DevOps
+Good luck
